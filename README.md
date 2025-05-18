@@ -36,5 +36,5 @@
 - <h2>To See Results:</h2>
 
   <h4>cat reachable_ips.txt </h4>
-  <br>
-    <h4>cat unreachable_ips.txt </h4>
+
+  <h4>cat unreachable_ips.txt </h4>
