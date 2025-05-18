@@ -8,3 +8,6 @@
 - <h2>Navigate to the Pingspy Tool :</h2>
 
   <h4>cd pingspy-v1.0.0 </h4>
+
+
+![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/help-command.png)
