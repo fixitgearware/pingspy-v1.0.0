@@ -23,6 +23,6 @@
 
 - <h2>Pinging Multiple IP Addresses :</h2>
 
-  <h4>python3 main.py --ip target_ip </h4>
+  <h4>python3 main.py --ip target_ip1,target_ip2,target_ip3 </h4>
 
 ![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/multiple-ip-ping.png)
