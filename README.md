@@ -9,5 +9,8 @@
 
   <h4>cd pingspy-v1.0.0 </h4>
 
+- <h2>Using The Help Commands :</h2>
+
+  <h4>python3 main.py --help </h4>
 
 ![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/help-command.png)
