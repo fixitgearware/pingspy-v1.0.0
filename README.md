@@ -15,8 +15,14 @@
 
 ![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/help-command.png)
 
-- <h2>Pinging Single IP Addresses :</h2>
+- <h2>Pinging Single IP Address :</h2>
 
-  <h4>python3 main.py --ip 'target_ip' </h4>
+  <h4>python3 main.py --ip target_ip </h4>
 
 ![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/single-ip-ping.png)
+
+- <h2>Pinging Multiple IP Addresses :</h2>
+
+  <h4>python3 main.py --ip target_ip </h4>
+
+![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/multiple-ip-ping.png)
