@@ -1,1 +1,4 @@
 # PINGSPY V-1.0.0 IS A TOOL THAT ALLOWS USERS PING IP-ADRESSES AND GET A RESPONSE.
+
+
+1. Cloning the repository : gitclone 
