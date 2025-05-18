@@ -14,3 +14,9 @@
   <h4>python3 main.py --help </h4>
 
 ![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/help-command.png)
+
+- <h2>Pinging Single IP Addresses :</h2>
+
+  <h4>python3 main.py --help </h4>
+
+![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/single-ip-ping.png)
