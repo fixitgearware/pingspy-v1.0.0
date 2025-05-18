@@ -32,3 +32,9 @@
   <h4>python3 main.py --file /path_to_file/filename.txt </h4>
 
 ![](https://github.com/fixitgearware/pingspy-v1.0.0/blob/main/assets/ping-textfile.png)
+
+- <h2>To See Results:</h2>
+
+  <h4>cat reachable_ips.txt </h4>
+  <br>
+    <h4>cat unreachable_ips.txt </h4>
